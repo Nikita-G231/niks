@@ -1,1 +1,1 @@
-# niks
+print('hello')
